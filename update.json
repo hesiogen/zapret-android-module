@@ -1,6 +1,6 @@
 {
-  "version": "22.0",
-  "versionCode": "220",
-  "zipUrl": "https://github.com/sevcator/zapret-pocket/releases/download/v22.0/zapret-pocket.zip",
-  "changelog": "https://raw.githubusercontent.com/sevcator/zapret-pocket/main/CHANGELOG.md"
+  "version": "main",
+  "versionCode": "",
+  "zipUrl": "https://github.com/hesiogen/zapret-android-module/releases/download/main/zapret-pocket.zip",
+  "changelog": "https://raw.githubusercontent.com/hesiogen/zapret-android-module/main/CHANGELOG.md"
 }
